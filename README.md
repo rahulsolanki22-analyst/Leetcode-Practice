@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
