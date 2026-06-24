@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
