@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
