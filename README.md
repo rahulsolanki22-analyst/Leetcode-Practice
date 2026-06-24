@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
