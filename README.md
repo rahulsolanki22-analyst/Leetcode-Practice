@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
