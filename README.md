@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,8 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
