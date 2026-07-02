@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0242-valid-anagram](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulsolanki22-analyst/Leetcode-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
